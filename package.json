@@ -11,6 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
+  "homepage": "https://pavel-krasnov.github.io/memory-game",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -33,6 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://pavel-krasnov.github.io/memory-game"
+  }
 }
